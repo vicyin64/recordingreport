@@ -6,7 +6,7 @@ report_url = "https://webexapis.com/v1/recordingReport/accessSummary"
 people_url = "https://webexapis.com/v1/people"
 
 # Webex access token
-access_token = "ZWQyNjQ5MjYtMmE0My00NDQ3LThjZWEtYzNkM2Y3YWY1ZTZkNzE3NDNlZmEtOGQ0_P0A1_e1cc9400-34f9-4188-9b20-cec11bb10431"
+access_token = "<BEARER_TOKEN>"
 
 # Headers with the access token
 headers = {
